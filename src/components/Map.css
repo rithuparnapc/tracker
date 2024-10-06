@@ -1,0 +1,27 @@
+.map {
+    height: 500px;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .info-container {
+    text-align: left;
+  }
+  
+  .info-flag {
+    height: 50px;
+    width: 80px;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .info-name {
+    font-weight: bold;
+  }
+  
+  .info-confirmed,
+  .info-recovered,
+  .info-deaths {
+    margin-top: 5px;
+  }
+  
